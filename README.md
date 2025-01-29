@@ -3,8 +3,9 @@
 ## 🎯 Project Overview
 This project is a Pac-Man-inspired maze solver that visualizes pathfinding algorithms in a randomly generated maze. It demonstrates how **A* Search** and **Depth-First Search (DFS)** algorithms work in real time.
 
-## 📸 Screenshots
-🎥 [Watch the demo video]([https://drive.google.com/your-video-link](https://drive.google.com/file/d/1C6OlU8RdP4dhAfNP7y3xt_xWyIgFPQlW/view?usp=drive_link))
+## 🎥 Demo  
+![Maze Solver Demo](https://github.com/khalledhelmy/Pacman-Maze-Solver/blob/main/Pacman%20Maze%20Solver.gif)
+
 
 
 ## 🚀 Features
@@ -24,20 +25,19 @@ This project is a Pac-Man-inspired maze solver that visualizes pathfinding algor
 - **Maze_GUI.py** Handles Pygame rendering and maze generation.
 - **Main.py** Runs the game loop and event handling.
 
-## ## 🎮 How to Run
+## 🎮 How to Run
 1. **Install Dependencies**
    ```bash
    pip install pygame
 2. Run the main script
-  ```bash
-  python Main.py
-  ```
+   ```bash
+   python Main.py
 ## 🎮 Controls
 Press A to solve the maze using A Search*.
 Press D to solve using DFS.
 Press R to regenerate a new maze.
 
-## ## 👥 Team
+## 👥 Team
 This project was developed by:  
 - **[Khaled Helmy](https://github.com/khalledhelmy)**  
 - **[Khaled Zakarya](https://github.com/khaledzakarya)**  
