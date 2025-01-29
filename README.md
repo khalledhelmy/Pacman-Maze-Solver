@@ -4,9 +4,9 @@
 This project is a Pac-Man-inspired maze solver that visualizes pathfinding algorithms in a randomly generated maze. It demonstrates how **A* Search** and **Depth-First Search (DFS)** algorithms work in real time.
 
 ## 🎥 Demo  
-![Maze Solver Demo](https://github.com/khalledhelmy/Pacman-Maze-Solver/blob/main/Pacman%20Maze%20Solver.gif)
-
-
+<p align="center">
+  <img src="https://github.com/khalledhelmy/Pacman-Maze-Solver/blob/main/Pacman%20Maze%20Solver.gif" width="600" height="400">
+</p>
 
 ## 🚀 Features
 - Generates a random maze with walls and open paths.
