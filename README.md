@@ -5,7 +5,7 @@ This project is a Pac-Man-inspired maze solver that visualizes pathfinding algor
 
 ## 🎥 Demo  
 <p align="center">
-  <img src="https://github.com/khalledhelmy/Pacman-Maze-Solver/blob/main/Pacman%20Maze%20Solver.gif" width="600" height="400">
+  <img src="https://github.com/khalledhelmy/Pacman-Maze-Solver/blob/main/Demo/Pacman%20Maze%20Solver.gif" width="600" height="400">
 </p>
 
 ## 🚀 Features
